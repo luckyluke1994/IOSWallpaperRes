@@ -1,7 +1,17 @@
 [
   {
     "id": "wp_1",
-    "path_thumbnail": "",
-    "path_image": ""
+    "path_thumbnail": "https://raw.githubusercontent.com/luckyluke1994/IOSWallpaperRes/main/ImageWallpaper/wp_1_thumb.jpg",
+    "path_image": "https://raw.githubusercontent.com/luckyluke1994/IOSWallpaperRes/main/ImageWallpaper/wp_1.jpg"
+  },
+{
+    "id": "wp_2",
+    "path_thumbnail": "https://raw.githubusercontent.com/luckyluke1994/IOSWallpaperRes/main/ImageWallpaper/wp_2_thumb.jpg",
+    "path_image": "https://raw.githubusercontent.com/luckyluke1994/IOSWallpaperRes/main/ImageWallpaper/wp_2.jpg"
+  },
+{
+    "id": "wp_3",
+    "path_thumbnail": "https://raw.githubusercontent.com/luckyluke1994/IOSWallpaperRes/main/ImageWallpaper/wp_3_thumb.jpg",
+    "path_image": "https://raw.githubusercontent.com/luckyluke1994/IOSWallpaperRes/main/ImageWallpaper/wp_3.jpg"
   }
 ]
